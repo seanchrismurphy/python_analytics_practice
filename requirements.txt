@@ -1,0 +1,32 @@
+# Core numerical stack
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# Visualisation
+matplotlib>=3.8
+seaborn>=0.13
+
+# Statistics & classical ML
+scikit-learn>=1.4
+statsmodels>=0.14
+
+# Jupyter / interactive work (VS Code %% cells)
+jupyter>=1.0
+ipykernel>=6.29
+
+# Data quality / profiling
+ydata-profiling>=4.6
+
+# Utilities
+tqdm>=4.66
+python-dateutil>=2.9
+pytz>=2024.1
+
+# IO formats you will inevitably need
+pyarrow>=15.0
+openpyxl>=3.1
+xlrd>=2.0
+
+# Optional but very handy
+rich>=13.7
